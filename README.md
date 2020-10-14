@@ -1,3 +1,5 @@
+有一些小伙伴想要源码，我就放上来了，发现问题大家可以提pull request请求，希望可以帮助到大家！记得star！！！
+---
 # Machine-Learning-Notes
 白板推导系列课程笔记 初版
 
